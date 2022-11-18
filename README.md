@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CurtisKing25
+- 👀 I’m interested in AI, UX and UI design and accesablilty, and using hardware such as sensors to bring code to life, especially in a tactile way.
+- 🌱 I’m currently learning SQL and developing my Java in college. I also want to improve my Python programming in the future.
+- 📫 How to reach me: Discord: Curtis_king6#2058
