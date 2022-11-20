@@ -5,4 +5,4 @@ I also want to get into app development. I am currently using Processing in andr
 - 📫 How to reach me: Discord: Curtis_king6#2058
 Languages I know include: Python, HTML, CSS, Java, R(through R Studio), Prolog, and SQL.
 I am currently in 2nd year studying Computer Science and Software Engineering in Maynooth University.
-I am late getting on to Github so I intend to upload several projects each week until my backlog cleared.
+I am late getting on to Github so I intend to upload several projects each week until my backlog is cleared.
