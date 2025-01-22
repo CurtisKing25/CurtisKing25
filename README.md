@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CurtisKing25, I am currently in 4th year studying Computer Science and Software Engineering in Maynooth University.
-- 👀 I’m interested in UX/UI, intuitive app design, graphics, problem-solving, emerging technologies and bring code to life in a tactile way.
-- 📫 How to reach me: Discord: Curtis_king6#2058
-- Languages I know include: Java, C++, Python, JavaScript, HTML, CSS, R (through RStudio) Prolog, SQL, Processing (Java)
+- 👀 I’m interested in UX/UI, automation, intuitive app design, graphics, problem-solving, emerging technologies and bringing code to life in a tactile way.
+- 📫 How to reach me: gmail: curtisking.cs@gmail.com
+- Languages I know include: Java, C++, Python, JavaScript, HTML, CSS, R (through RStudio) Prolog, SQL, Processing (Java), Bash
